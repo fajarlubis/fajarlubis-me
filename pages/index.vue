@@ -77,7 +77,7 @@
 
       <div class="pt-2">
         <h1 class="mb-3 pl-1">
-          Software Enginner based in Jakarta, Indonesia. Hire me for your next
+          Software Engineer based in Jakarta, Indonesia. Hire me for your next
           project.
         </h1>
         <label>&nbsp;Contact me</label>
